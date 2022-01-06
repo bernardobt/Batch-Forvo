@@ -1,0 +1,7 @@
+{
+	"field_to_add" : "Audio Focus",
+    "field_to_read" : "Focus",
+    "shortcut" : "Ctrl+Shift+F6",
+    "languageCode" : "Japanese_ja",
+    "downloadPath":""
+}
